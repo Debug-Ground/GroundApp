@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/employCardMenu"
+        android:title="사원증"
+        android:icon="@drawable/ic_baseline_remember_me_24"
+        app:exb_color="#46545E"
+        />
+
+    <item
+        android:id="@+id/noticeMenu"
+        android:title="공지사항"
+        android:icon="@drawable/ic_baseline_receipt_24"
+        app:exb_color="#46545E"
+        />
+
+    <item
+        android:id="@+id/commuteCalendarMenu"
+        android:title="홈페이지"
+        android:icon="@drawable/ic_baseline_web_24"
+        app:exb_color="#46545E"
+        />
+
+</menu>
